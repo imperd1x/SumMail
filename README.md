@@ -8,7 +8,7 @@ To get started, you'll need to:
 - Clone this repository to your local machine.
 - Install the required Python libraries using `pip install -r requirements.txt`.
 - Set your email account credentials and OpenAI API key in a .env file.
-- Run the summize.py script.
+- Run the `main.py` script.
 - Once the script runs successfully, it will print the subject line of your latest email and a bulleted summary of its content.
 
 ### 📩 Email Setup
