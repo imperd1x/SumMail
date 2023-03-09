@@ -1,6 +1,6 @@
-# 📧 Summize
+# 📧 SumMail
 
-Summize is a Python script that summarizes your latest email using OpenAI's language model. With just a few clicks, Summize distills the content of an email into a compact and easy-to-read format.
+SumMail is a Python script that summarizes your latest email using OpenAI's language model. With just a few clicks, SumMail distills the content of an email into a compact and easy-to-read format.
 
 ### 🚀 Quick Start
 To get started, you'll need to:
@@ -12,7 +12,7 @@ To get started, you'll need to:
 - Once the script runs successfully, it will print the subject line of your latest email and a bulleted summary of its content.
 
 ### 📩 Email Setup
-Summize works with any email account that uses IMAP. To use Summize, you'll need to set up the following environment variables:
+SumMail works with any email account that uses IMAP. To use SumMail, you'll need to set up the following environment variables:
 
 ```
 IMAP_SERVER: the IMAP server address for your email provider.
@@ -22,7 +22,7 @@ SENDER_EMAIL: the email address of the sender you want to summarize.
 ```
 
 ### 🔑 OpenAI API Setup
-Summize uses OpenAI's API to summarize your email content. To use Summize, you'll need to set up an API key [here](https://platform.openai.com/account/api-keys)
+SumMail uses OpenAI's API to summarize your email content. To use SumMail, you'll need to set up an API key [here](https://platform.openai.com/account/api-keys)
  and add it to your `.env` file as `OPENAI_API_KEY`.
 
 
@@ -31,7 +31,7 @@ This project is licensed under the [MIT License](./LICENSE) - see the LICENSE fi
 
 ### 🙏 Acknowledgments
 - This script was inspired by the OpenAI API and the Python email library. 
-- Special thanks to the developers who created these tools and made Summize possible.
+- Special thanks to the developers who created these tools and made SumMail possible.
 
 ## Do you like this project?
 <a href="https://www.buymeacoffee.com/cyphercut" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 145px !important;" ></a>
